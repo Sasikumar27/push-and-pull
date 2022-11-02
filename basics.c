@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-   int a=100;
-   int b=50;
-   printf("%d",a);
+   int a=23;
+   int b=51;
+   int c=10;
+   printf("%d",b+a);
 }
